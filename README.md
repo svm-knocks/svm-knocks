@@ -67,14 +67,45 @@
 ## 📂 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 📊 Telecom Customer Churn Analysis | End-to-end churn prediction using Python, SQL & Power BI |
-| 🏦 Banking Customer Analytics Dashboard | Customer insights, KPI reporting and business analytics |
-| 📈 Apple Stock Market Analysis | Financial trend analysis using Python, Pandas & NumPy |
-| 📉 Power BI Business Dashboard | Interactive dashboard for business performance tracking |
-| 🧠 Machine Learning Projects | Predictive analytics and classification models |
 
----
+<table>
+<tr>
+<th>Logo</th>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>📊</td>
+<td><b>Telecom Customer Churn Analysis</b></td>
+<td>End-to-end churn prediction using Python, SQL & Power BI</td>
+</tr>
+
+<tr>
+<td>🏦</td>
+<td><b>Banking Customer Analytics Dashboard</b></td>
+<td>Customer insights, KPI reporting and business analytics</td>
+</tr>
+
+<tr>
+<td>📈</td>
+<td><b>Apple Stock Market Analysis</b></td>
+<td>Financial trend analysis using Python, Pandas & NumPy</td>
+</tr>
+
+<tr>
+<td>📉</td>
+<td><b>Power BI Business Dashboard</b></td>
+<td>Interactive dashboard for business performance tracking</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><b>DSA in C++</b></td>
+<td>Data Structures & Algorithms implementation and problem solving</td>
+</tr>
+
+</table>
 
 ## 📚 Education
 
