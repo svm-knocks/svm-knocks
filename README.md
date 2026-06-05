@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sai Vamshi 👋
 
-<!--
-**svm-knocks/svm-knocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst & Data Scientist
 
-Here are some ideas to get you started:
+I enjoy solving business problems using data. My work focuses on Python, SQL, Power BI, and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📂 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| Telco Churn Analysis | Customer churn prediction using Python, SQL & Power BI |
+| Banking Analytics Dashboard | KPI reporting and customer analytics |
+| Apple Stock Analysis | Financial data analysis using Python |
+
+### 🎓 Education
+
+Bachelor of Science in Data Science & Applications  
+IIT Madras (Pursuing)
+
+### 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/sai-vamshi-miryalkar-b850703ba
+- GitHub: github.com/svm-knocks## 
+
