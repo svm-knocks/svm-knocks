@@ -77,51 +77,22 @@
 ---
 
 ## 📚 Education
-<h2>📚 Education</h2>
 
-<table>
-<tr>
+<img align="right" src="IIT_Madras_Logo.svg" width="140">
 
-<td width="75%" valign="top">
+### Indian Institute of Technology Madras (IIT Madras)
 
-<h3>Indian Institute of Technology Madras (IIT Madras)</h3>
+**Bachelor of Science in Data Science & Applications** *(Pursuing)*
 
-<b>Bachelor of Science in Data Science & Applications</b> <i>(Pursuing)</i>
-
-<br><br>
-
-<b>Relevant Coursework:</b>
-
-<ul>
-<li>Python Programming</li>
-<li>Statistics</li>
-<li>Data Analysis</li>
-<li>Machine Learning</li>
-<li>Database Management Systems</li>
-<li>Business Analytics</li>
-<li>Data Structures & Algorithms</li>
-<li>SQL & Database Design</li>
-</ul>
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<img src="IIT_Madras_Logo.svg" width="170"/>
-
-<br>
-
-<b>IIT Madras</b>
-
-</td>
-
-</tr>
-</table>
-
-
-
-
-
+**Relevant Coursework:**
+- Python Programming
+- Statistics
+- Data Analysis
+- Machine Learning
+- Database Management Systems
+- Business Analytics
+- Data Structures & Algorithms
+- SQL & Database Design
 
 ## 🎯 Career Objective
 
