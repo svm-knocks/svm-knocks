@@ -49,21 +49,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Core Concepts
-
-- Data Structures & Algorithms
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- KPI Reporting
-- Dashboard Development
-- Data Visualization
-- Business Intelligence
-- Business Analytics
-- Data Cleaning
-- Data Transformation
-
----
-
 ## 📂 Featured Projects
 <table>
 <tr>
