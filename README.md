@@ -66,8 +66,6 @@
 
 ## 📂 Featured Projects
 
-| Project | Description |
-
 <table>
 <tr>
 <th>Logo</th>
@@ -76,33 +74,33 @@
 </tr>
 
 <tr>
-<td>📊</td>
+<td><img src="powerbi.png" width="35"></td>
 <td><b>Telecom Customer Churn Analysis</b></td>
 <td>End-to-end churn prediction using Python, SQL & Power BI</td>
 </tr>
 
 <tr>
-<td>🏦</td>
+<td><img src="powerbi.png" width="35"></td>
 <td><b>Banking Customer Analytics Dashboard</b></td>
 <td>Customer insights, KPI reporting and business analytics</td>
 </tr>
 
 <tr>
-<td>📈</td>
+<td><img src="python.png" width="35"></td>
 <td><b>Apple Stock Market Analysis</b></td>
 <td>Financial trend analysis using Python, Pandas & NumPy</td>
 </tr>
 
 <tr>
-<td>📉</td>
-<td><b>Power BI Business Dashboard</b></td>
-<td>Interactive dashboard for business performance tracking</td>
+<td><img src="mysql.png" width="35"></td>
+<td><b>SQL Projects</b></td>
+<td>Advanced SQL querying and analytics</td>
 </tr>
 
 <tr>
-<td>💻</td>
+<td><img src="cpp.png" width="35"></td>
 <td><b>DSA in C++</b></td>
-<td>Data Structures & Algorithms implementation and problem solving</td>
+<td>Data Structures & Algorithms implementation</td>
 </tr>
 
 </table>
