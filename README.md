@@ -78,9 +78,6 @@
 
 ## 📚 Education
 
-## 🎓 Education
-## 🎓 Education
-
 <p align="left">
   <img src="IIT_Madras_Logo.svg" width="100">
 </p>
