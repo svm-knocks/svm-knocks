@@ -78,22 +78,46 @@
 
 ## 📚 Education
 
-<p align="left">
-  <img src="IIT_Madras_Logo.svg" width="100">
-</p>
+<h2>📚 Education</h2>
 
-### Indian Institute of Technology Madras (IIT Madras)
+<table>
+<tr>
 
-**Bachelor of Science in Data Science & Applications** *(Pursuing)*
+<td width="75%">
 
-Relevant Coursework:
-- Python Programming
-- Statistics
-- Data Analysis
-- Machine Learning
-- Database Management Systems
-- Business Analytics
+<h3>Indian Institute of Technology Madras (IIT Madras)</h3>
 
+<b>Bachelor of Science in Data Science & Applications</b> <i>(Pursuing)</i>
+
+<br><br>
+
+<b>Relevant Coursework:</b>
+
+<ul>
+<li>Python Programming</li>
+<li>Statistics</li>
+<li>Data Analysis</li>
+<li>Machine Learning</li>
+<li>Database Management Systems</li>
+<li>Business Analytics</li>
+<li>Data Structures & Algorithms</li>
+<li>SQL & Database Design</li>
+</ul>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="IIT_Madras_Logo.svg" width="150"/>
+
+<br><br>
+
+<b>IIT Madras</b>
+
+</td>
+
+</tr>
+</table>
 ## 📈 GitHub Statistics
 
 <p align="center">
