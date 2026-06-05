@@ -65,7 +65,6 @@
 ---
 
 ## 📂 Featured Projects
-
 <table>
 <tr>
 <th>Logo</th>
@@ -74,32 +73,32 @@
 </tr>
 
 <tr>
-<td><img src="powerbi.png" width="35"></td>
-<td><b>Telecom Customer Churn Analysis</b></td>
+<td><img src="Python-logo-notext.svg" width="40"></td>
+<td>Telecom Customer Churn Analysis</td>
 <td>End-to-end churn prediction using Python, SQL & Power BI</td>
 </tr>
 
 <tr>
-<td><img src="powerbi.png" width="35"></td>
-<td><b>Banking Customer Analytics Dashboard</b></td>
+<td><img src="hd-mysql-logo-.png" width="40"></td>
+<td>Banking Customer Analytics Dashboard</td>
 <td>Customer insights, KPI reporting and business analytics</td>
 </tr>
 
 <tr>
-<td><img src="python.png" width="35"></td>
-<td><b>Apple Stock Market Analysis</b></td>
+<td><img src="Python-logo-notext.svg" width="40"></td>
+<td>Apple Stock Market Analysis</td>
 <td>Financial trend analysis using Python, Pandas & NumPy</td>
 </tr>
 
 <tr>
-<td><img src="mysql.png" width="35"></td>
-<td><b>SQL Projects</b></td>
+<td><img src="New_Power_BI_Logo.svg" width="40"></td>
+<td>SQL Projects</td>
 <td>Advanced SQL querying and analytics</td>
 </tr>
 
 <tr>
-<td><img src="cpp.png" width="35"></td>
-<td><b>DSA in C++</b></td>
+<td><img src="ISO_C++_Logo.svg" width="40"></td>
+<td>DSA in C++</td>
 <td>Data Structures & Algorithms implementation</td>
 </tr>
 
