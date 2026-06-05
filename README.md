@@ -77,13 +77,12 @@
 ---
 
 ## 📚 Education
-
 <h2>📚 Education</h2>
 
 <table>
 <tr>
 
-<td width="75%">
+<td width="75%" valign="top">
 
 <h3>Indian Institute of Technology Madras (IIT Madras)</h3>
 
@@ -106,11 +105,11 @@
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-<img src="IIT_Madras_Logo.svg" width="150"/>
+<img src="IIT_Madras_Logo.svg" width="170"/>
 
-<br><br>
+<br>
 
 <b>IIT Madras</b>
 
@@ -118,21 +117,11 @@
 
 </tr>
 </table>
-## 📈 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=default" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact" />
-</p>
 
----
+
 
 ## 🎯 Career Objective
 
