@@ -78,19 +78,23 @@
 
 ## 📚 Education
 
-### 🎓 IIT Madras
+## 🎓 Education
+
+<p align="left">
+  <img src="https://seeklogo.com/images/I/iit-madras-logo-38E5FA8A17-seeklogo.com.png" width="80">
+</p>
+
+### Indian Institute of Technology Madras (IIT Madras)
+
 **Bachelor of Science in Data Science & Applications** *(Pursuing)*
 
 Relevant Coursework:
-
 - Python Programming
 - Statistics
 - Data Analysis
 - Machine Learning
 - Database Management Systems
 - Business Analytics
-
----
 
 ## 📈 GitHub Statistics
 
