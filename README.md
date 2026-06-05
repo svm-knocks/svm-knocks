@@ -79,9 +79,10 @@
 ## 📚 Education
 
 ## 🎓 Education
+## 🎓 Education
 
 <p align="left">
-  <img src="https://seeklogo.com/images/I/iit-madras-logo-38E5FA8A17-seeklogo.com.png" width="80">
+  <img src="IIT_Madras_Logo.svg" width="100">
 </p>
 
 ### Indian Institute of Technology Madras (IIT Madras)
