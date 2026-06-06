@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 Pursuing **BS in Data Science & Applications** from **IIT Madras**
+🎓 Pursuing **Data Science & Applications** from **IIT Madras**
 
 📊 Passionate about Data Analytics, Business Intelligence, Machine Learning and Data Visualization
 
