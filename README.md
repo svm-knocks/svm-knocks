@@ -75,7 +75,7 @@
 
 <tr>
 <td><img src="Python-logo-notext.svg" width="40"></td>
-<td>Apple Stock Market Analysis</td>
+<td>https://github.com/svm-knocks/apple-stock-analysis-dashboard/blob/main/README.md</td>
 <td>Financial trend analysis using Python, Pandas & NumPy</td>
 </tr>
 
