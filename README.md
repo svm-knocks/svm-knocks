@@ -2,8 +2,7 @@
 
 # Hi, I'm Sai Vamshi Miryalkar 
 
-### Quantitative Developer | Data Scientist | Data Analyst
-#### Bachelors in Data Science & Applications — IIT Madras
+### Quantitative Developer | Data Scientist | Data Analyst | IIT Madras
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=2ECC71&center=true&vCenter=true&width=940&lines=Quantitative+Developer+%7C+Data+Scientist;Algorithmic+Trading+%2B+Risk+Modeling;Python+%7C+C%2B%2B+%7C+SQL+%7C+Power+BI;Turning+Market+Data+Into+Alpha" />
 
