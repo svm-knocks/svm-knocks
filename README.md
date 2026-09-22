@@ -224,6 +224,6 @@ Aspiring Quantitative Developer and Data Scientist seeking to apply statistical 
 
 <div align="center">
 
-⭐ *Turning Data into Decisions · Turning Markets into Models · Building Quant-Ready Analytics*
+ *Research with mathematics. Validate with data. Engineer with code.*
 
 </div>
