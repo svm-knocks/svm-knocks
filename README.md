@@ -8,10 +8,25 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivamshimiryalkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/svm-knocks)
-![twitter](https://img.shields.io/badge/twitter-181717?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/SaiVamshi_000)
+<a href="https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/svm-knocks" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://x.com/SaiVamshi_000" target="_blank">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+</a>
+
+<a href="https://t.me/saivamshi00" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=svm-knocks&color=2ECC71&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/svm-knocks?style=for-the-badge&color=2ECC71&labelColor=black)
