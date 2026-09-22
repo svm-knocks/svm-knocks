@@ -91,7 +91,8 @@ open_to: [Quant Analyst, Quant Developer, Data Scientist roles]
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,postgres&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postgres&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="42"/>
 
 <br/><br/>
 
@@ -264,20 +265,11 @@ open_to: [Quant Analyst, Quant Developer, Data Scientist roles]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D9A5&icon_color=00D9A5" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks&theme=tokyonight&hide_border=true&ring=00D9A5&fire=00D9A5&currStreakLabel=00D9A5" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9A5&text_color=ffffff" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks&theme=tokyonight&hide_border=true&ring=00D9A5&fire=00D9A5&currStreakLabel=00D9A5" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=svm-knocks&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=svm-knocks&theme=react-dark&hide_border=true&bg_color=0F2027&color=00D9A5&line=00D9A5&point=ffffff" width="95%"/>
+<img src="https://quickchart.io/chart?bkg=%230F2027&w=800&h=380&c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22SQL%22%2C%20%22C%2B%2B%22%2C%20%22Power%20BI/DAX%22%2C%20%22NumPy/Pandas%22%2C%20%22Statistics/ML%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%22%2C%20%22data%22%3A%20%5B92%2C%2085%2C%2075%2C%2080%2C%2088%2C%2083%5D%2C%20%22backgroundColor%22%3A%20%5B%22%2300D9A5%22%2C%20%22%2300B4D8%22%2C%20%22%237f8c8d%22%2C%20%22%23F2C811%22%2C%20%22%23013243%22%2C%20%22%238E44AD%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22indexAxis%22%3A%20%22y%22%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Core%20Proficiency%20Snapshot%22%2C%20%22color%22%3A%20%22%23ffffff%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22max%22%3A%20100%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23aaaaaa%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232c3e50%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23e0e0e0%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2013%7D%7D%2C%20%22grid%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D%7D" width="70%"/>
 
 </div>
 
