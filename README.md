@@ -203,14 +203,23 @@ Aspiring Quantitative Developer and Data Scientist seeking to apply statistical 
 
 ---
 
-## 📊 GitHub Stats
+## CONTRIBUTION FLOW
 
-<div align="center">
+ <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks&theme=radical&hide_border=true" width="49%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/svm-knocks/svm-knocks/output/github-contribution-grid-snake-dark.svg">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/svm-knocks/svm-knocks/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/svm-knocks/svm-knocks/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
