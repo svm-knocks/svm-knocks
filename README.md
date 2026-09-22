@@ -1,317 +1,213 @@
-<h1 align="center">Hi 👋, I'm Sai Vamshi Miryalkar</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | Data Scientist | Aspiring Quant Developer | IIT Madras BS in Data Science
-</h3>
+# Hi, I'm Sai Vamshi Miryalkar 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Python+Developer;SQL+%7C+Power+BI+%7C+Machine+Learning;Aspiring+Quant+Developer;Quantitative+Finance+%7C+Algorithmic+Trading;Financial+Data+%7C+Statistical+Modeling;Transforming+Data+Into+Business+Insights" />
-</p>
+### Quantitative Developer (Aspiring) | Data Scientist | Data Analyst
+#### B.S. in Data Science & Applications — IIT Madras
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=2ECC71&center=true&vCenter=true&width=940&lines=Quantitative+Developer+%7C+Data+Scientist;Algorithmic+Trading+%2B+Risk+Modeling;Python+%7C+C%2B%2B+%7C+SQL+%7C+Power+BI;Turning+Market+Data+Into+Alpha" />
 
-## 🚀 About Me
+<br/>
 
-🎓 Pursuing **Data Science & Applications** from **IIT Madras**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivamshimiryalkar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/svm-knocks)
 
-📊 Passionate about **Data Analytics, Business Intelligence, Machine Learning and Data Visualization**
+![Profile Views](https://komarev.com/ghpvc/?username=svm-knocks&color=2ECC71&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/svm-knocks?style=for-the-badge&color=2ECC71&labelColor=black)
 
-💡 Skilled in transforming raw data into actionable business insights
-
-📈 Experienced in building dashboards, KPI reports, customer analytics and predictive models
-
-📉 Interested in **Quantitative Finance, Algorithmic Trading and Financial Data Analysis**
-
-⚡ Currently developing my skills in **C++, Statistics, DSA and Quantitative Development**
-
-🌱 Exploring **Advanced Data Science, Machine Learning and Quantitative Finance**
+</div>
 
 ---
 
-# 🛠️ Skills & Tech Stack
+## 🧭 About Me
 
-## Programming Languages
+```yaml
+name: Sai Vamshi Miryalkar
+role: [Quantitative Developer (aspiring), Data Scientist, Data Analyst]
+education: "B.S. Data Science & Applications — IIT Madras"
+focus:
+  - Quantitative & Algorithmic Trading Strategy Development
+  - Statistical Modeling & Time-Series Forecasting
+  - Risk Analytics & Portfolio Optimization
+  - Business Intelligence & Predictive Analytics
+currently_building: "Backtesting engine + factor-based alpha models"
+currently_learning: ["Stochastic Calculus", "Market Microstructure", "C++ for Low-Latency Systems"]
+fun_fact: "I'd rather backtest a strategy 50 times than trade it once blind."
+```
 
+- 📊 Skilled in turning raw, noisy market & business data into **actionable, risk-adjusted insights**
+- 📈 Experience building dashboards, KPI systems, customer analytics, and predictive/statistical models
+- 🧮 Deepening expertise in **quantitative finance**: derivatives pricing, backtesting, portfolio risk, and systematic strategy design
+- 🌱 Actively learning: options pricing (Black-Scholes, Binomial trees), GARCH/ARIMA modeling, and DSA for interview-grade quant roles
+- 🎯 Goal: Break into **Quantitative Analyst / Quant Developer** roles bridging data science rigor with financial markets
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## Data Science & Analytics
+### Quantitative Finance & Trading
+![QuantLib](https://img.shields.io/badge/QuantLib-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Options Pricing](https://img.shields.io/badge/Options_Pricing-Black--Scholes%20%7C%20Binomial-2ECC71?style=for-the-badge)
+![Algo Trading](https://img.shields.io/badge/Algorithmic_Trading-Backtesting%20%7C%20Alpha%20Research-1E1E1E?style=for-the-badge)
+![Risk](https://img.shields.io/badge/Risk_Management-VaR%20%7C%20Sharpe%20%7C%20Greeks-D62728?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-ARIMA%20%7C%20GARCH%20%7C%20Kalman-8E44AD?style=for-the-badge)
 
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## Visualization & BI
-
+### Visualization & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-## Tools & Platforms
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📈 Quantitative Finance & Development
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=QUANT%20FINANCE%20%7C%20ALGORITHMIC%20TRADING%20%7C%20QUANT%20DEV&fontSize=22&fontColor=ffffff&color=0D1117&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Mathematics × Finance × Computer Science</b>
-</p>
-
-<p align="center">
-
-![Quantitative Finance](https://img.shields.io/badge/Quantitative%20Finance-111827?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-111827?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Quant Development](https://img.shields.io/badge/Quant%20Development-111827?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</p>
-
----
-
-## 🧮 Quantitative Methods
-
-- Probability Theory & Statistical Inference
-- Linear Algebra & Numerical Methods
-- Optimization & Convex Optimization
-- Regression & Statistical Learning
-- Time Series Analysis
-- Monte Carlo Simulation
-- Numerical Computing
-- Statistical Modeling
-
----
-
-## 📈 Quantitative Trading
-
-- Systematic Trading
-- Algorithmic Trading Strategies
-- Signal Research & Alpha Modeling
-- Factor Models
-- Statistical Arbitrage
-- Mean Reversion
-- Momentum Strategies
-- Strategy Backtesting
-- Transaction Cost Analysis
-
----
-
-## 💹 Financial Modeling
-
-- Portfolio Optimization
-- Risk & Return Modeling
-- Volatility Modeling
-- Factor-Based Modeling
-- Correlation & Covariance Analysis
-- Value at Risk (VaR)
-- Risk-Adjusted Performance
-- Performance Attribution
-
----
-
-## ⚡ Quant Development
-
-- Modern C++ / C++20
-- Low-Latency Programming
-- Data Structures & Algorithms
-- Memory Management
-- Multithreading & Concurrency
-- Performance Optimization
-- Linux Systems
-- Market Data Processing
-- High-Performance Computing
-
----
-
-## 🏦 Market Microstructure
-
-- Order Books
-- Limit & Market Orders
-- Bid-Ask Spread
-- Market Impact
-- Order Flow
-- Execution Algorithms
-- Liquidity Analysis
-- Matching Engine Concepts
-
----
-
-## 🧮 Derivatives & Advanced Topics
-
-- Options & Futures
-- Option Pricing Concepts
-- Black-Scholes Model
-- Greeks
-- Implied Volatility
-- Stochastic Processes
-- Brownian Motion
-- Stochastic Calculus — Exploring
-- Numerical Pricing Methods
-
----
-
-## ⚙️ Advanced Quant Stack
-
-<p align="center">
-
-![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
 
 ---
 
-## 🎯 Currently Exploring
-
-<p align="center">
-
-![HFT](https://img.shields.io/badge/High--Frequency%20Trading-Exploring-111827?style=for-the-badge)
-![Market Microstructure](https://img.shields.io/badge/Market%20Microstructure-Exploring-111827?style=for-the-badge)
-![Statistical Arbitrage](https://img.shields.io/badge/Statistical%20Arbitrage-Exploring-111827?style=for-the-badge)
-![Options](https://img.shields.io/badge/Options%20Pricing-Exploring-111827?style=for-the-badge)
-![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo%20Methods-Exploring-111827?style=for-the-badge)
-
-</p>
-
----
-
-# 📂 Featured Projects
+## 🧠 Quant Skillset Deep Dive
 
 <table>
-
 <tr>
-<th>Logo</th>
-<th>Project</th>
-<th>Description</th>
+<th align="left">Domain</th>
+<th align="left">Skills</th>
 </tr>
-
 <tr>
-<td>🐍</td>
-<td><b>Telecom Customer Churn Analysis</b></td>
-<td>End-to-end churn prediction using Python, SQL & Power BI</td>
+<td><b>Derivatives & Pricing</b></td>
+<td>Black-Scholes-Merton, Binomial/Trinomial Trees, Monte Carlo Simulation, Greeks (Delta, Gamma, Vega, Theta), Implied Volatility Surfaces</td>
 </tr>
-
 <tr>
-<td>🏦</td>
-<td><b>Banking Customer Analytics Dashboard</b></td>
-<td>Customer insights, KPI reporting and business analytics</td>
+<td><b>Quantitative Trading</b></td>
+<td>Strategy Backtesting, Signal Generation, Mean Reversion & Momentum Models, Factor Investing, Pairs Trading, Portfolio Rebalancing</td>
 </tr>
-
 <tr>
-<td>📈</td>
-<td><b>Apple Stock Market Analysis</b></td>
-<td>Financial trend analysis using Python, Pandas & NumPy</td>
+<td><b>Risk & Portfolio Management</b></td>
+<td>Value at Risk (VaR/CVaR), Sharpe/Sortino Ratios, Modern Portfolio Theory, Covariance & Correlation Modeling, Position Sizing</td>
 </tr>
-
 <tr>
-<td>🗄️</td>
-<td><b>SQL Projects</b></td>
-<td>Advanced SQL querying, data analysis and database problem solving</td>
+<td><b>Time Series & Econometrics</b></td>
+<td>ARIMA/SARIMA, GARCH/EGARCH (Volatility Modeling), Cointegration, Stationarity Testing (ADF/KPSS), Kalman Filters</td>
 </tr>
-
 <tr>
-<td>⚙️</td>
-<td><b>DSA in C++</b></td>
-<td>Data Structures & Algorithms implementation using C++</td>
+<td><b>Mathematical Foundations</b></td>
+<td>Stochastic Calculus, Linear Algebra, Probability Theory, Optimization (Convex & Linear Programming), Numerical Methods</td>
 </tr>
-
 <tr>
-<td>📊</td>
-<td><b>Quantitative Trading Research</b></td>
-<td>Exploring market data, statistical signals, strategy research and backtesting using Python</td>
+<td><b>Systems & Infrastructure</b></td>
+<td>Low-Latency C++ Fundamentals, Vectorized Python (NumPy/Pandas), API Integration for Market Data, Event-Driven Backtest Architecture</td>
 </tr>
-
-<tr>
-<td>⚡</td>
-<td><b>Low-Latency C++ Systems</b></td>
-<td>Exploring high-performance C++, DSA and systems concepts for Quant Development</td>
-</tr>
-
-<tr>
-<td>💼</td>
-<td><b>Portfolio Optimization</b></td>
-<td>Exploring risk, return and quantitative portfolio analysis using Python and NumPy</td>
-</tr>
-
 </table>
 
 ---
 
-# 📚 Education
+## 📂 Featured Projects
 
-<img align="right" src="IIT_Madras_Logo.svg" width="140">
-
-### Indian Institute of Technology Madras (IIT Madras)
-
-**Bachelor of Science in Data Science & Applications** *(Pursuing)*
-
-**Relevant Coursework:**
-
-- Python Programming
-- Statistics
-- Data Analysis
-- Machine Learning
-- Database Management Systems
-- Business Analytics
-- Data Structures & Algorithms
-- SQL & Database Design
-
----
-
-# 🎯 Career Objective
-
-Aspiring **Data Analyst, Data Scientist and Quant Developer** with a strong interest in **Quantitative Finance, Algorithmic Trading and High-Performance Computing**.
-
-Currently building skills across **Python, SQL, C++, Statistics, Machine Learning and Data Analytics**, while exploring **Quantitative Modeling, Financial Markets, Market Microstructure and Algorithmic Trading**.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba
-
-📧 Email: saivamshimiryalkar@gmail.com
-
-🐙 GitHub: github.com/svm-knocks
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td>📉 <b>Telecom Customer Churn Analysis</b></td>
+<td>End-to-end churn prediction pipeline with feature engineering and business dashboards</td>
+<td>Python · SQL · Power BI</td>
+</tr>
+<tr>
+<td>🏦 <b>Banking Customer Analytics Dashboard</b></td>
+<td>Customer segmentation, KPI reporting, and behavioral analytics for retail banking</td>
+<td>SQL · Power BI</td>
+</tr>
+<tr>
+<td>📈 <b>Apple Stock Market Analysis</b></td>
+<td>Financial trend analysis, volatility, and returns modeling on historical equity data</td>
+<td>Python · Pandas · NumPy</td>
+</tr>
+<tr>
+<td>🧮 <b>SQL Analytics Projects</b></td>
+<td>Advanced querying, window functions, and business analytics case studies</td>
+<td>SQL</td>
+</tr>
+<tr>
+<td>🧩 <b>DSA in C++</b></td>
+<td>Core data structures & algorithms implementation for interview and systems readiness</td>
+<td>C++</td>
+</tr>
+<tr>
+<td>💹 <b>Options Pricing Engine</b> <i>(in progress)</i></td>
+<td>Black-Scholes & Binomial Tree pricer with Greeks calculator and volatility surface plots</td>
+<td>Python · NumPy · SciPy</td>
+</tr>
+<tr>
+<td>🔁 <b>Systematic Strategy Backtester</b> <i>(in progress)</i></td>
+<td>Event-driven backtesting framework for momentum and mean-reversion strategies</td>
+<td>Python · Pandas · Matplotlib</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
+## 📚 Education
 
-<b>⭐ Turning Data into Decisions | Exploring Quantitative Finance | Building with Code</b>
+<img align="right" src="IIT_Madras_Logo.svg" width="130">
 
-</p>
+**Indian Institute of Technology Madras (IIT Madras)**
+Bachelor of Science in Data Science & Applications *(Pursuing)*
+
+**Relevant Coursework**
+`Python Programming` `Statistics` `Machine Learning` `Database Management Systems`
+`Business Analytics` `Data Structures & Algorithms` `SQL & Database Design`
+
+---
+
+## 🎯 Career Objective
+
+Aspiring Quantitative Developer and Data Scientist seeking to apply statistical rigor, programming proficiency, and financial market knowledge to build data-driven trading strategies and risk models — bridging the gap between analytics and quantitative finance.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=svm-knocks&theme=radical&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact&theme=radical&hide_border=true" width="50%" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [sai-vamshi-miryalkar](https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba)
+📧 **Email:** saivamshimiryalkar@gmail.com
+🐙 **GitHub:** [svm-knocks](https://github.com/svm-knocks)
+
+<div align="center">
+
+⭐ *Turning Data into Decisions · Turning Markets into Models · Building Quant-Ready Analytics*
+
+</div>
