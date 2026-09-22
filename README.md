@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sai Vamshi Miryalkar 👋
+# Hi, I'm Sai Vamshi Miryalkar 
 
 ### Quantitative Developer | Data Scientist | Data Analyst
 #### Bachelors in Data Science & Applications — IIT Madras
