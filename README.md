@@ -1,457 +1,432 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8FF&height=220&section=header&text=SAI%20VAMSHI%20MIRYALKAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QUANTITATIVE%20DEVELOPER%20%7C%20DATA%20SCIENTIST%20%7C%20IIT%20MADRAS&descAlignY=58&descSize=18" />
+# SAI VAMSHI MIRYALKAR
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=00A8FF&center=true&vCenter=true&width=900&lines=Quantitative+Developer;Quantitative+Research+Enthusiast;Algorithmic+Trading+%7C+Financial+Markets;C%2B%2B+%7C+Python+%7C+SQL;Statistics+%7C+Machine+Learning+%7C+DSA;IIT+Madras+%7C+Data+Science" />
+### `QUANTITATIVE DEVELOPER`
+
+**IIT Madras · Data Science · C++ · Python · Mathematics · Financial Markets**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00A8FF&center=true&vCenter=true&width=850&lines=QUANTITATIVE+DEVELOPER;C%2B%2B+%7C+PYTHON+%7C+LINUX+%7C+SQL;ALGORITHMS+%7C+STATISTICS+%7C+PROBABILITY;MARKET+DATA+%7C+SYSTEMATIC+RESEARCH;BUILDING+TOWARD+LOW-LATENCY+QUANT+SYSTEMS" />
 
 <br>
 
 <a href="https://github.com/svm-knocks">
-<img src="https://img.shields.io/github/followers/svm-knocks?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/badge/GitHub-svm--knocks-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-&nbsp;
-<a href="https://github.com/svm-knocks">
-<img src="https://img.shields.io/github/stars/svm-knocks?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
+
+<a href="https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba">
+<img src="https://img.shields.io/badge/LinkedIn-Sai%20Vamshi%20Miryalkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=svm-knocks&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="55%">
-
-### ⚡ Quantitative Developer
-
-I'm a **Data Science student at IIT Madras** building toward **Quantitative Development, Quantitative Research and systematic trading**.
-
-My interests sit at the intersection of:
-
-**Mathematics × Computer Science × Statistics × Financial Markets**
-
-I enjoy building analytical systems, solving algorithmic problems and exploring how mathematical models can be transformed into efficient computational systems.
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎓 Education
-
-<div align="center">
+## `01 / IDENTITY`
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="65%">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="150">
+```text
+ROLE
+──────────────────────────────────────
+Quantitative Developer
+
+EDUCATION
+──────────────────────────────────────
+IIT Madras
+Bachelor of Science in Data Science
+2023 — Present
+
+CORE INTERSECTION
+──────────────────────────────────────
+Computer Science
+        +
+Mathematics
+        +
+Statistics
+        +
+Financial Markets
+
+PRIMARY DIRECTION
+──────────────────────────────────────
+Quant Development
+Quantitative Research
+Algorithmic Trading
+```
 
 </td>
 
-<td width="75%">
+<td width="35%" align="center">
 
-## Indian Institute of Technology Madras
-
-### Bachelor of Science in Data Science
-
-**2023 — Present**
-
-**Department / Program:** Data Science & Applications
-
-<br>
-
-📊 **Academic Focus**
-
-`Statistics` • `Probability` • `Data Science` • `Machine Learning`
-`Python` • `SQL` • `Data Structures & Algorithms`
-`Database Systems` • `Business Analytics`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🧠 Quantitative Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/QUANTITATIVE%20DEVELOPMENT-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUANT%20RESEARCH-172554?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HIGH%20PERFORMANCE%20COMPUTING-1D4ED8?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-|   📐 Mathematics  | 💻 Computer Science |       💹 Finance      |
-| :---------------: | :-----------------: | :-------------------: |
-|    Probability    |         C++         |   Financial Markets   |
-|     Statistics    |         DSA         |  Algorithmic Trading  |
-|   Linear Algebra  |      Algorithms     |      Time Series      |
-|      Calculus     |         STL         | Quantitative Research |
-| Numerical Methods |       Systems       | Statistical Arbitrage |
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,js" />
+<img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="170">
 
 <br><br>
 
-### Data Science
+<b>INDIAN INSTITUTE OF<br>
+TECHNOLOGY MADRAS</b>
+
+<br><br>
+
+<code>BS · DATA SCIENCE</code>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `02 / QUANT STACK`
+
+<div align="center">
+
+### 🧮 MATHEMATICS
+
+<img src="https://img.shields.io/badge/Probability-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linear_Algebra-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Calculus-3730A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optimization-4338CA?style=for-the-badge"/>
+
+<br><br>
+
+### 💻 SYSTEMS & PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multithreading-475569?style=for-the-badge"/>
+
+<br><br>
+
+### 📊 DATA & RESEARCH
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 
 <br><br>
 
-### Tools & Engineering
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
-### Analytics
+### 💹 QUANTITATIVE FINANCE
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Market_Data-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Series-172554?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backtesting-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Signal_Research-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk_Analytics-3730A3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Market_Microstructure-111827?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📊 Quant & Data Science Arsenal
-
-<div align="center">
+# `03 / ENGINEERING`
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### 🧮 Mathematics
+<td width="50%">
 
-Probability
-Statistics
-Linear Algebra
-Calculus
-Optimization
-Numerical Methods
+### ⚙️ Core Engineering
 
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ C++
-
-C++
-STL
-OOP
-DSA
-Algorithms
-Memory Management
+* C++
+* STL
+* Data Structures
+* Algorithms
+* Object-Oriented Programming
+* Complexity Analysis
+* Memory Management
+* Linux
+* Git
+* Debugging
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%">
 
-### 📈 Quant
+### ⚡ Quant Engineering
 
-Time Series
-Backtesting
-Risk Analysis
-Signal Research
-Financial Data
-Market Microstructure
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖 ML
-
-Regression
-Classification
-Feature Engineering
-Model Evaluation
-Predictive Modeling
-Statistical Learning
+* Market Data Processing
+* Numerical Computing
+* Statistical Computing
+* Backtesting
+* Signal Generation
+* Performance Analysis
+* Financial Time Series
+* Research Pipelines
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🚀 Featured Projects
+# `04 / QUANT RESEARCH`
 
 <div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 📉 Telco Customer Churn
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/>
-
-<br><br>
-
-Customer churn prediction and business intelligence pipeline.
-
-**7,043 customer records**
-Logistic Regression
-Feature Analysis
-KPI Dashboard
-
-<br>
-
-<a href="https://github.com/svm-knocks/Telco-Churn-Analysis">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📈 Financial Market Analysis
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-
-<br><br>
-
-Financial time-series analysis and quantitative market exploration.
-
-Returns
-Volatility
-Drawdown
-Statistical Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🏦 Banking Analytics
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi"/>
-
-<br><br>
-
-Customer analytics, KPI monitoring and business intelligence.
-
-</td>
-
-<td width="50%" align="center">
-
-### ⚡ Quant Research Lab
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Statistics-1E3A8A?style=flat-square"/>
-
-<br><br>
-
-Research environment for systematic strategies, signals and backtesting.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 📈 Quant Research Pipeline
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2"/>
 
 ```text
-             ┌──────────────────────┐
-             │    MARKET DATA       │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │  DATA ENGINEERING    │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │ FEATURE ENGINEERING  │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │ STATISTICAL MODELING │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │ SIGNAL / ALPHA       │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │     BACKTESTING      │
-             └──────────┬───────────┘
-                        ↓
-             ┌──────────────────────┐
-             │   RISK & PERFORMANCE │
-             └──────────────────────┘
+                 MARKET DATA
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │   DATA INGESTION    │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ CLEANING & FEATURES │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ STATISTICAL MODEL   │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ SIGNAL / ALPHA      │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │     BACKTEST        │
+          └──────────┬──────────┘
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ RISK / PERFORMANCE  │
+          └─────────────────────┘
 ```
 
 </div>
 
+### Research Interests
+
+`Statistical Arbitrage` · `Factor Models` · `Alpha Research`
+
+`Financial Time Series` · `Volatility` · `Portfolio Analytics`
+
+`Market Microstructure` · `Execution` · `Systematic Strategies`
+
 ---
 
-# 🔥 Current Focus
+# `05 / FEATURED WORK`
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📉 Telco Churn Analysis
+
+**Python · SQL · Scikit-Learn · Power BI**
+
+End-to-end predictive analytics pipeline involving:
+
+* Exploratory Data Analysis
+* Feature Engineering
+* Logistic Regression
+* Model Evaluation
+* Customer Segmentation
+* Business Intelligence
+
+<a href="https://github.com/svm-knocks/Telco-Churn-Analysis">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📈 Financial Market Analysis
+
+**Python · NumPy · Pandas**
+
+Quantitative exploration of financial time-series data.
+
+* Returns
+* Volatility
+* Drawdown
+* Trend Analysis
+* Statistical Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏦 Banking Analytics
+
+**SQL · Python · Power BI**
+
+Customer-level financial analytics with:
+
+* KPI Analysis
+* Customer Segmentation
+* SQL Analytics
+* Dashboard Development
+
+</td>
+
+<td width="50%">
+
+## ⚡ Quant Research Lab
+
+**Python · Statistics · NumPy**
+
+Research environment focused on:
+
+* Signal Generation
+* Backtesting
+* Statistical Testing
+* Risk Metrics
+* Strategy Evaluation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `06 / LEARNING`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-ADVANCING-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/DSA-BUILDING-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROBABILITY-STRENGTHENING-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATISTICS-STRENGTHENING-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUANT-RESEARCH-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEMS-EXPLORING-374151?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADVANCED_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBABILITY-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATISTICS-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEMS-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QUANT_FINANCE-172554?style=for-the-badge"/>
 
 </div>
 
+```text
+CURRENTLY DEEPENING
+────────────────────────────────────────
+
+C++                    ███████████████░░░
+Data Structures        ███████████████░░░
+Algorithms             ██████████████░░░░
+Probability            ██████████████░░░░
+Statistics             ███████████████░░░
+Linear Algebra         ████████████░░░░░░
+Financial Mathematics  ███████████░░░░░░░
+Systems Programming    ██████████░░░░░░░░
+```
+
 ---
 
-# 🐍 Contribution Graph
+# `07 / GITHUB`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/svm-knocks/svm-knocks/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=svm-knocks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svm-knocks&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=svm-knocks&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=svm-knocks&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧩 Problem Solving
+# `08 / CONTRIBUTIONS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Competitive%20Programming-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C%2B%2B%20STL-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Complexity%20Analysis-374151?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/svm-knocks/svm-knocks/output/github-contribution-grid-snake-dark.svg" width="95%">
 
 </div>
 
 ---
 
-# 🎯 Career Direction
+# `09 / QUANT DEVELOPMENT PATH`
 
 <div align="center">
 
-### `QUANTITATIVE DEVELOPMENT`
+### C++
 
-**C++ → DSA → Systems → Performance**
+`C++ → STL → DSA → Systems → Performance`
 
-⬇️
+### Mathematics
 
-### `QUANTITATIVE RESEARCH`
+`Probability → Statistics → Linear Algebra → Numerical Methods`
 
-**Probability → Statistics → Python → Financial Data**
+### Markets
 
-⬇️
+`Market Data → Time Series → Signals → Backtesting → Risk`
 
-### `SYSTEMATIC TRADING`
+### Research
 
-**Signals → Backtesting → Risk → Execution**
+`Hypothesis → Model → Test → Validate → Optimize`
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# `10 / EDUCATION`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sai-vamshi-miryalkar-b850703ba">
-<img src="https://img.shields.io/badge/LinkedIn-Sai%20Vamshi%20Miryalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="120">
 
-<a href="https://github.com/svm-knocks">
-<img src="https://img.shields.io/badge/GitHub-svm--knocks-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### INDIAN INSTITUTE OF TECHNOLOGY MADRAS
 
-<a href="mailto:saivamshimiryalkar@gmail.com">
-<img src="https://img.shields.io/badge/Email-saivamshimiryalkar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Bachelor of Science in Data Science**
 
-</div>
+`2023 — Present`
+
+**Data Science & Applications**
 
 <br>
 
+`Python` · `Statistics` · `Data Analysis` · `Machine Learning`
+
+`Database Systems` · `Algorithms` · `Business Analytics`
+
+</div>
+
+---
+
 <div align="center">
 
-## ⚡ BUILD • RESEARCH • OPTIMIZE • REPEAT
+# `BUILDING TOWARD QUANT.`
 
-### `IIT Madras` • `Quantitative Development` • `Data Science`
+### C++ · Mathematics · Statistics · Systems · Markets
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+<br>
+
+<a href="https://github.com/svm-knocks">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00A8FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:00A8FF&height=120&section=footer"/>
 
 </div>
