@@ -53,7 +53,7 @@ fun_fact: "I'd rather backtest a strategy 50 times than trade it once blind."
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Quantitative Finance & Trading
-![QuantLib](https://img.shields.io/badge/QuantLib-000000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![QuantLib](https://img.shields.io/badge/QuantLib-000000?style=for-the-badge)
 ![Options Pricing](https://img.shields.io/badge/Options_Pricing-Black--Scholes%20%7C%20Binomial-2ECC71?style=for-the-badge)
 ![Algo Trading](https://img.shields.io/badge/Algorithmic_Trading-Backtesting%20%7C%20Alpha%20Research-1E1E1E?style=for-the-badge)
 ![Risk](https://img.shields.io/badge/Risk_Management-VaR%20%7C%20Sharpe%20%7C%20Greeks-D62728?style=for-the-badge)
@@ -94,28 +94,85 @@ fun_fact: "I'd rather backtest a strategy 50 times than trade it once blind."
 <th align="left">Skills</th>
 </tr>
 <tr>
-<td><b>Derivatives & Pricing</b></td>
-<td>Black-Scholes-Merton, Binomial/Trinomial Trees, Monte Carlo Simulation, Greeks (Delta, Gamma, Vega, Theta), Implied Volatility Surfaces</td>
+<td><b>Derivatives Pricing</b></td>
+<td>Black-Scholes-Merton PDE derivation, Binomial/Trinomial Trees, Monte Carlo (GBM paths, variance reduction), American options via Least-Squares Monte Carlo (Longstaff-Schwartz), Greeks (Δ Γ ν Θ ρ), Implied Vol Surfaces (smile/skew), Heston Stochastic Vol Model</td>
 </tr>
 <tr>
-<td><b>Quantitative Trading</b></td>
-<td>Strategy Backtesting, Signal Generation, Mean Reversion & Momentum Models, Factor Investing, Pairs Trading, Portfolio Rebalancing</td>
+<td><b>Stochastic Processes</b></td>
+<td>Brownian Motion, Itô's Lemma, Stochastic Differential Equations, Ornstein-Uhlenbeck Process, Jump-Diffusion (Merton) Models</td>
 </tr>
 <tr>
-<td><b>Risk & Portfolio Management</b></td>
-<td>Value at Risk (VaR/CVaR), Sharpe/Sortino Ratios, Modern Portfolio Theory, Covariance & Correlation Modeling, Position Sizing</td>
+<td><b>Quantitative Trading & Alpha Research</b></td>
+<td>Signal Generation & Feature Alpha Design, Statistical Arbitrage, Pairs Trading (Engle-Granger, Johansen Cointegration Tests), Mean-Reversion & Momentum Factor Models, Fama-French 3/5-Factor Regression, Cross-Sectional Ranking Strategies</td>
+</tr>
+<tr>
+<td><b>Portfolio & Risk Management</b></td>
+<td>Modern Portfolio Theory (Markowitz), CAPM & APT, Risk Parity & Hierarchical Risk Parity, Kelly Criterion Position Sizing, VaR/CVaR (Historical, Parametric, Monte Carlo), Max Drawdown, Sharpe/Sortino/Calmar Ratios, Covariance Shrinkage (Ledoit-Wolf)</td>
+</tr>
+<tr>
+<td><b>Fixed Income & Rates</b></td>
+<td>Duration & Convexity, Yield Curve Bootstrapping, Vasicek / CIR / Hull-White Short-Rate Models, Term Structure Modeling</td>
 </tr>
 <tr>
 <td><b>Time Series & Econometrics</b></td>
-<td>ARIMA/SARIMA, GARCH/EGARCH (Volatility Modeling), Cointegration, Stationarity Testing (ADF/KPSS), Kalman Filters</td>
+<td>ARIMA/SARIMA/SARIMAX, GARCH/EGARCH/TGARCH Volatility Clustering, Cointegration & Vector Error Correction (VECM), Stationarity Testing (ADF, KPSS, Phillips-Perron), Kalman Filtering, Granger Causality</td>
 </tr>
 <tr>
-<td><b>Mathematical Foundations</b></td>
-<td>Stochastic Calculus, Linear Algebra, Probability Theory, Optimization (Convex & Linear Programming), Numerical Methods</td>
+<td><b>Backtesting & Execution</b></td>
+<td>Event-Driven Backtest Architecture, Slippage & Transaction Cost Modeling, Walk-Forward Optimization, Overfitting Controls (Deflated Sharpe Ratio, Combinatorial Purged CV), Order Book Basics & Market Microstructure</td>
 </tr>
 <tr>
 <td><b>Systems & Infrastructure</b></td>
-<td>Low-Latency C++ Fundamentals, Vectorized Python (NumPy/Pandas), API Integration for Market Data, Event-Driven Backtest Architecture</td>
+<td>Low-Latency C++ Fundamentals, Vectorized Python (NumPy broadcasting, Numba JIT), Market Data API Integration (REST/WebSocket), Multi-threaded/Async Data Pipelines</td>
+</tr>
+</table>
+
+### ⚙️ Quant Research Libraries & Platforms
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat-square)
+![arch (GARCH)](https://img.shields.io/badge/arch-GARCH%2FEGARCH-1E1E1E?style=flat-square)
+![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-2ECC71?style=flat-square)
+![cvxpy](https://img.shields.io/badge/cvxpy-Convex_Optimization-8E44AD?style=flat-square)
+![Backtrader](https://img.shields.io/badge/Backtrader-Backtesting-D62728?style=flat-square)
+![vectorbt](https://img.shields.io/badge/vectorbt-Fast_Backtesting-2ECC71?style=flat-square)
+![QuantConnect/LEAN](https://img.shields.io/badge/QuantConnect-LEAN_Engine-000000?style=flat-square)
+![ccxt](https://img.shields.io/badge/ccxt-Exchange_APIs-F7931E?style=flat-square)
+![ib_insync](https://img.shields.io/badge/ib__insync-Interactive_Brokers_API-1E1E1E?style=flat-square)
+![QuantLib](https://img.shields.io/badge/QuantLib-Derivatives_Pricing-000000?style=flat-square)
+
+---
+
+## 📊 Advanced Data Analytics Skillset
+
+<table>
+<tr>
+<th align="left">Domain</th>
+<th align="left">Skills</th>
+</tr>
+<tr>
+<td><b>Advanced SQL</b></td>
+<td>Window Functions (RANK, LAG/LEAD, Running Totals), CTEs & Recursive Queries, Query Optimization & Indexing, Stored Procedures, Query Plans</td>
+</tr>
+<tr>
+<td><b>Data Engineering / ETL</b></td>
+<td>ETL/ELT Pipeline Design, Apache Airflow (DAG orchestration), dbt (data build tool), Data Warehousing (Snowflake, BigQuery, Redshift), Star/Snowflake Schema Design</td>
+</tr>
+<tr>
+<td><b>Statistical Analysis</b></td>
+<td>Hypothesis Testing (t-test, chi-square, ANOVA), A/B Testing & Experimentation Design, Regression Diagnostics (multicollinearity, heteroskedasticity), Causal Inference (DiD, propensity score matching)</td>
+</tr>
+<tr>
+<td><b>Customer & Business Analytics</b></td>
+<td>Cohort Analysis, RFM Segmentation, Customer Lifetime Value (CLV), Churn Propensity Modeling, Funnel & Retention Analysis</td>
+</tr>
+<tr>
+<td><b>BI & Dashboarding</b></td>
+<td>DAX & Power Query (Power BI), Calculated Fields & LOD Expressions (Tableau), KPI Tree Design, Executive Dashboard Storytelling, Row-Level Security</td>
+</tr>
+<tr>
+<td><b>Machine Learning for Analytics</b></td>
+<td>Classification/Regression (XGBoost, LightGBM), Clustering (K-Means, DBSCAN), Feature Engineering, Model Explainability (SHAP, LIME), Cross-Validation & Hyperparameter Tuning</td>
 </tr>
 </table>
 
@@ -125,44 +182,44 @@ fun_fact: "I'd rather backtest a strategy 50 times than trade it once blind."
 
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
+<th align="center">Stack</th>
+<th align="left">Project</th>
+<th align="left">Description</th>
 </tr>
 <tr>
-<td>📉 <b>Telecom Customer Churn Analysis</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"></td>
+<td><b>Telecom Customer Churn Analysis</b><br/><sub>Python · SQL · Power BI</sub></td>
 <td>End-to-end churn prediction pipeline with feature engineering and business dashboards</td>
-<td>Python · SQL · Power BI</td>
 </tr>
 <tr>
-<td>🏦 <b>Banking Customer Analytics Dashboard</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"></td>
+<td><b>Banking Customer Analytics Dashboard</b><br/><sub>SQL · Power BI</sub></td>
 <td>Customer segmentation, KPI reporting, and behavioral analytics for retail banking</td>
-<td>SQL · Power BI</td>
 </tr>
 <tr>
-<td>📈 <b>Apple Stock Market Analysis</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"></td>
+<td><b>Apple Stock Market Analysis</b><br/><sub>Python · Pandas · NumPy</sub></td>
 <td>Financial trend analysis, volatility, and returns modeling on historical equity data</td>
-<td>Python · Pandas · NumPy</td>
 </tr>
 <tr>
-<td>🧮 <b>SQL Analytics Projects</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"></td>
+<td><b>SQL Analytics Projects</b><br/><sub>SQL</sub></td>
 <td>Advanced querying, window functions, and business analytics case studies</td>
-<td>SQL</td>
 </tr>
 <tr>
-<td>🧩 <b>DSA in C++</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"></td>
+<td><b>DSA in C++</b><br/><sub>C++</sub></td>
 <td>Core data structures & algorithms implementation for interview and systems readiness</td>
-<td>C++</td>
 </tr>
 <tr>
-<td>💹 <b>Options Pricing Engine</b> <i>(in progress)</i></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"></td>
+<td><b>Options Pricing Engine</b> <i>(in progress)</i><br/><sub>Python · NumPy · SciPy</sub></td>
 <td>Black-Scholes & Binomial Tree pricer with Greeks calculator and volatility surface plots</td>
-<td>Python · NumPy · SciPy</td>
 </tr>
 <tr>
-<td>🔁 <b>Systematic Strategy Backtester</b> <i>(in progress)</i></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32"></td>
+<td><b>Systematic Strategy Backtester</b> <i>(in progress)</i><br/><sub>Python · Pandas · Matplotlib</sub></td>
 <td>Event-driven backtesting framework for momentum and mean-reversion strategies</td>
-<td>Python · Pandas · Matplotlib</td>
 </tr>
 </table>
 
@@ -170,7 +227,7 @@ fun_fact: "I'd rather backtest a strategy 50 times than trade it once blind."
 
 ## 📚 Education
 
-<img align="right" src="IIT_Madras_Logo.svg" width="130">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/IIT_Madras_Logo.svg/200px-IIT_Madras_Logo.svg.png" width="110">
 
 **Indian Institute of Technology Madras (IIT Madras)**
 Bachelor of Science in Data Science & Applications *(Pursuing)*
