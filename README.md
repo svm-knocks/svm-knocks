@@ -20,6 +20,26 @@ QUANTITATIVE DEVELOPMENT · ALGORITHMIC TRADING · FINANCIAL ENGINEERING
 
 </div>
 
+00 — EDUCATION
+
+<div align="center">
+
+<a href="https://study.iitm.ac.in/ds/">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IIT_Madras_Logo.svg" width="170" alt="Indian Institute of Technology Madras logo"/>
+</a>
+
+🎓 Indian Institute of Technology Madras
+
+B.S. in Data Science & Applications
+
+Currently Pursuing · Probability · Statistics · Python · Machine Learning
+
+<img src="https://img.shields.io/badge/IIT%20MADRAS-B.S.%20DATA%20SCIENCE%20%26%20APPLICATIONS-8B0000?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Madras education badge"/>
+
+The logo above is loaded from Wikimedia. If GitHub blocks the external logo, the IIT Madras badge still remains visible.
+
+</div>
+
 > TERMINAL / PROFILE
 
 ┌────────────────────────────────────────────────────────────────────┐
@@ -88,6 +108,10 @@ Sharpe ratio, volatility, maximum drawdown, VaR, and stress scenarios
 <img src="https://img.shields.io/badge/CMAKE-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOOGLETEST-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,cmake,linux,docker,git,github" alt="C++ CMake Linux Docker Git GitHub logos"/>
+
 </div>
 
 SYSTEMS ENGINEERING
@@ -124,6 +148,10 @@ SYSTEMS ENGINEERING
 <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cmake,mysql,git,github,vscode,jupyter,linux,docker" alt="Python C++ SQL Git GitHub VS Code Jupyter Linux Docker logos"/>
 
 </div>
 
@@ -319,16 +347,9 @@ PERFORMANCE CHECKS
 
 <div align="center">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/IIT_Madras_Logo.svg" width="145" alt="IIT Madras Logo"/>
+<img src="https://img.shields.io/badge/EDUCATION-IIT%20MADRAS-8B0000?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Madras badge"/>
 
-Indian Institute of Technology Madras
-
-B.S. in Data Science & Applications
-
-Currently Pursuing
-
-Probability · Statistics · Statistical Inference · Python
-Machine Learning · SQL · Data Structures · Data Analysis
+B.S. in Data Science & Applications — Currently Pursuing
 
 </div>
 
@@ -364,7 +385,17 @@ SYSTEMS
 
 </div>
 
-12 — CONNECT
+12 — GITHUB RENDERING CHECK
+
+Save this file exactly as README.md in the public profile repository svm-knocks/svm-knocks.
+
+GitHub profile README works only when the repository name exactly matches your username.
+
+External logos depend on GitHub/network access; the shields.io badges are the fallback.
+
+If a logo still does not load, open the image URL in your browser and check whether it loads independently.
+
+13 — CONNECT
 
 <div align="center">
 
